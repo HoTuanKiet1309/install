@@ -78,7 +78,7 @@ EOL
 mkdir -p mongodb-data/json
 
 # Tải script import và các file JSON
-curl -s -o mongodb-data/import.sh https://raw.githubusercontent.com/HoTuanKiet1309/install/main/import.sh
+curl -s -o mongodb-data/import.sh https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/import.sh
 chmod +x mongodb-data/import.sh
 
 curl -s -o mongodb-data/json/snack-shop.categories.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.categories.json
