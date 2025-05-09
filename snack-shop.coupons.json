@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6816282ab9a665dcc4c670c0"
+  },
+  "code": "SUMMER20",
+  "discountType": "percentage",
+  "discountValue": 20,
+  "minPurchase": 100000,
+  "startDate": {
+    "$date": "2023-09-01T00:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "isActive": true,
+  "usageLimit": null,
+  "usedCount": 0,
+  "description": "Giảm 20% cho đơn hàng từ 100,000đ",
+  "createdAt": {
+    "$date": "2025-05-03T14:28:58.493Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T14:28:58.493Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681629266f2f86cead5ac31c"
+  },
+  "code": "TEST123",
+  "discountType": "percentage",
+  "discountValue": 10,
+  "minPurchase": 0,
+  "startDate": {
+    "$date": "2025-05-03T14:33:10.942Z"
+  },
+  "endDate": {
+    "$date": "2026-12-31T00:00:00.000Z"
+  },
+  "isActive": true,
+  "usageLimit": null,
+  "usedCount": 0,
+  "description": "Mã test giảm 10%",
+  "createdAt": {
+    "$date": "2025-05-03T14:33:10.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T14:33:10.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68199c84d70814d9c4fdaf3d"
+  },
+  "code": "SNACKHUB20K",
+  "discountType": "fixed",
+  "discountValue": 20000,
+  "minPurchase": 100000,
+  "startDate": {
+    "$date": "2025-05-05T17:00:00.000Z"
+  },
+  "endDate": {
+    "$date": "2025-06-29T17:00:00.000Z"
+  },
+  "isActive": true,
+  "usageLimit": null,
+  "usedCount": 0,
+  "description": "Giảm 20k đối với đơn hàng trên 100k",
+  "createdAt": {
+    "$date": "2025-05-06T05:22:12.958Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-06T05:22:12.958Z"
+  },
+  "__v": 0
+}] 

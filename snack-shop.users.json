@@ -1,0 +1,422 @@
+[{
+  "_id": {
+    "$oid": "67f61482837a41eeddf80fb0"
+  },
+  "email": "user@example.com",
+  "password": "$2a$10$.7up7gjOt/i6Wl2sIgQSp.QmqxlbF0wMTrvCooY9JyCcBN.yf7ug2",
+  "firstName": "John",
+  "lastName": "Doe",
+  "avatar": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-09T06:32:34.258Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-20T13:30:19.422Z"
+  },
+  "__v": 0,
+  "phone": "0123456710"
+},
+{
+  "_id": {
+    "$oid": "67f61b57ddb976c2437cca2a"
+  },
+  "email": "abc@gmail.com",
+  "password": "$2a$10$vcvsJgRA3jXGs37f.uOV7O9ajoxlfk3o8An5tHpqCxiGLiNw121he",
+  "firstName": "Admin",
+  "lastName": "User",
+  "avatar": "",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-04-09T07:01:43.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T07:58:47.640Z"
+  },
+  "__v": 0,
+  "phone": "0987654321"
+},
+{
+  "_id": {
+    "$oid": "67f6239b0099abf53cfd1809"
+  },
+  "email": "hotuankiet1309@gmail.com",
+  "password": "$2a$10$SM82FU9k9Saa86CGBZexS.acTegO/bjMJ5sJ/kQzLYI9CHt4Xcjzm",
+  "firstName": "Hồ",
+  "lastName": "Kiệt",
+  "avatar": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-09T07:36:59.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-09T02:26:49.512Z"
+  },
+  "__v": 16,
+  "phone": "0766761285",
+  "status": "active",
+  "favorites": [
+    {
+      "$oid": "67f8d835fc0dd8f37e98d1e8"
+    },
+    {
+      "$oid": "67f8d835fc0dd8f37e98d1e0"
+    },
+    {
+      "$oid": "67f8d835fc0dd8f37e98d1df"
+    },
+    {
+      "$oid": "67f8d835fc0dd8f37e98d1e2"
+    }
+  ],
+  "snackPoints": 7750480,
+  "pointsHistory": [
+    {
+      "amount": 1000040,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T07:24:23.548Z"
+      },
+      "paymentMethod": "paypal",
+      "transactionId": "6F869067V5180512G",
+      "note": "Nạp SnackPoints qua PayPal - OrderID: 35V74362D23613906",
+      "_id": {
+        "$oid": "681c5c27bed06ea9c337f34b"
+      }
+    },
+    {
+      "amount": 1000040,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T07:59:59.305Z"
+      },
+      "paymentMethod": "paypal",
+      "transactionId": "0BW64824CD376910R",
+      "note": "Nạp SnackPoints qua PayPal - OrderID: 03K41676P1157902K",
+      "_id": {
+        "$oid": "681c647ff06387f478dfe9e7"
+      }
+    },
+    {
+      "amount": 500000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:27:46.694Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "MOMO1746692865162",
+      "_id": {
+        "$oid": "681c6b020a594fb3748b2a4e"
+      }
+    },
+    {
+      "amount": 1000000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:30:23.292Z"
+      },
+      "paymentMethod": "vnpay",
+      "transactionId": "VNPAY1746693021754",
+      "_id": {
+        "$oid": "681c6b9fce76e90c396f930c"
+      }
+    },
+    {
+      "amount": 500000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:30:50.913Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "MOMO1746693049394",
+      "_id": {
+        "$oid": "681c6bbace76e90c396f932c"
+      }
+    },
+    {
+      "amount": 1000000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:34:22.059Z"
+      },
+      "paymentMethod": "vnpay",
+      "transactionId": "vqfusiyj7ofam52xowznro",
+      "_id": {
+        "$oid": "681c6c8e3b9b1f170c4846b2"
+      }
+    },
+    {
+      "amount": 50000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:34:36.030Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "dnwrsr2wd7qwjnisrwn1km",
+      "_id": {
+        "$oid": "681c6c9c3b9b1f170c4846c8"
+      }
+    },
+    {
+      "amount": 100000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:35:05.277Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "cinb3jwajuvwbwhs498s4",
+      "_id": {
+        "$oid": "681c6cb93b9b1f170c4846e0"
+      }
+    },
+    {
+      "amount": 500000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:38:03.988Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "j28hxqiqbretjst4hoe9y7",
+      "_id": {
+        "$oid": "681c6d6b3b9b1f170c48471d"
+      }
+    },
+    {
+      "amount": 1000000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:41:46.106Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "lej5vazaizm4yxjmr1u6j",
+      "_id": {
+        "$oid": "681c6e4a3b9b1f170c484780"
+      }
+    },
+    {
+      "amount": 500000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T08:44:57.265Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "np2h4eadcte8s8ip6guqwm",
+      "_id": {
+        "$oid": "681c6f09b092bcfaf4a1ed24"
+      }
+    },
+    {
+      "amount": 50000,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T16:06:46.289Z"
+      },
+      "paymentMethod": "momo",
+      "transactionId": "yo5lhrl779akayelviapu",
+      "_id": {
+        "$oid": "681cd69675b64bd978e77e1b"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8da32cba3865ed524f4e0"
+  },
+  "email": "test@example.com",
+  "password": "$2a$10$19UmFFoZ.50XGeHDI0.rIOz2J8pAxGuB5yRqoACrR4qCR7Bb0j1w2",
+  "firstName": "John",
+  "lastName": "Doe",
+  "avatar": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-11T09:00:34.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T07:57:51.790Z"
+  },
+  "__v": 0,
+  "phone": "0915880821"
+},
+{
+  "_id": {
+    "$oid": "67fcd42b901fcaf00074b38e"
+  },
+  "email": "demo@gmail.com",
+  "password": "$2a$10$f7WN6admfCQggI.g.k02ZO7Raz3L6kcDp57ANixlZC.U6HzGjQXYa",
+  "firstName": "Hồ",
+  "lastName": "Kiệt",
+  "avatar": "",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-04-14T09:23:55.987Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T07:58:07.376Z"
+  },
+  "__v": 0,
+  "mobileNumber": "0766761285",
+  "phone": "0915880821"
+},
+{
+  "_id": {
+    "$oid": "67fdbd70593f589f1b658af8"
+  },
+  "email": "hotuankiet@gmail.com",
+  "password": "$2a$10$ZIj1R2eOeW0sx8KHZRuShe8Y0/90hTK.wYyFCJWN8UZvzFVtx4w6e",
+  "firstName": "Kiệt",
+  "lastName": "Hồ Tuấn",
+  "avatar": "",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-04-15T01:59:12.257Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T03:16:35.382Z"
+  },
+  "__v": 0,
+  "phone": "0766761285"
+},
+{
+  "_id": {
+    "$oid": "67fe157d7728a744632d03a3"
+  },
+  "email": "use@example.com",
+  "password": "$2a$10$H2UIRZfACU1SBT59yiqJgOW5gugr3Pk60s8uv4lenaB82PD76RvkW",
+  "firstName": "John",
+  "lastName": "Doe",
+  "avatar": "",
+  "phone": "0123456789",
+  "role": "user",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-04-15T08:14:53.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-15T08:14:53.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ff1c3ad1ba611e9c27ace5"
+  },
+  "email": "usr@example.com",
+  "password": "$2a$10$EHutjW/VqTBmoYJ3coYl6u1A9.xlESOE..odikZJfHBnVoEyQF.aK",
+  "firstName": "John",
+  "lastName": "ABC",
+  "avatar": "",
+  "phone": "0123456789",
+  "role": "user",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-04-16T02:55:54.396Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-16T02:55:54.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68123fa422f1cda38247684b"
+  },
+  "email": "user.test@gmail.com",
+  "password": "$2a$10$h1JFqbfBdOZYOzaCQR.36u8KqENzG3vtGwPA8kkuzOC4JGROaPA6e",
+  "firstName": "Hồ ",
+  "lastName": "Kiệt",
+  "avatar": "",
+  "phone": "0766761285",
+  "role": "user",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-04-30T15:20:04.864Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-30T15:20:04.864Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6813c419011ca54737455cf7"
+  },
+  "email": "atomzyro@gmail.com",
+  "password": "$2a$10$kdQrLJM5zGzmjb6YZ.kOluQssxwGpQ2jfHeYJAbu0YVi7Ejx2qcOm",
+  "firstName": "Nguyễn Huỳnh",
+  "lastName": "Hà My",
+  "avatar": "",
+  "phone": "0766761285",
+  "role": "user",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-05-01T18:57:29.291Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-01T18:57:29.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815205321b0ffc3f9f86314"
+  },
+  "email": "22520715@gm.uit.edu.vn",
+  "password": "$2a$10$IVbzOXsrv5j6WxoY33XCJe.0hPviWnuluV.pAp89bUlX/NqoufSWi",
+  "firstName": "Hồ",
+  "lastName": "Tuấn Kiệt",
+  "avatar": "",
+  "phone": "0766761285",
+  "role": "user",
+  "status": "active",
+  "createdAt": {
+    "$date": "2025-05-02T19:43:15.616Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-08T17:35:36.806Z"
+  },
+  "__v": 1,
+  "favorites": [],
+  "pointsHistory": [
+    {
+      "amount": 2000080,
+      "type": "load",
+      "date": {
+        "$date": "2025-05-08T07:28:49.462Z"
+      },
+      "paymentMethod": "paypal",
+      "transactionId": "8F398868GV080231M",
+      "note": "Nạp SnackPoints qua PayPal - OrderID: 8WW03112953378944",
+      "_id": {
+        "$oid": "681c5d31b0e8237ab144f972"
+      }
+    }
+  ],
+  "snackPoints": 2000080,
+  "resetPasswordCode": "236503",
+  "resetPasswordExpires": {
+    "$date": "2025-05-08T17:50:36.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6816f91fe6c30f6b346c57f0"
+  },
+  "email": "abcdef@gmail.com",
+  "password": "$2a$10$4aAJhFXxw83dgm.hYDeB0eRxotwi3CGnsh1Ioov2VnSckH7llX48y",
+  "firstName": "Hồ",
+  "lastName": "Kiệt",
+  "avatar": "",
+  "phone": "9155880821",
+  "role": "user",
+  "status": "active",
+  "snackPoints": 0,
+  "favorites": [],
+  "createdAt": {
+    "$date": "2025-05-04T05:20:31.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T05:20:31.635Z"
+  },
+  "__v": 0
+}] 

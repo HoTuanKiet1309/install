@@ -1,0 +1,844 @@
+[{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1fc"
+  },
+  "snackName": "Bánh đa kê",
+  "description": "Bánh đa kê là món ăn mộc mạc, giản dị chứa đựng cả một nét văn hóa và gắn liền với tuổi thơ của nhiều thế hệ sinh ra, lớn lên nơi phố cổ Hà Nội. Để có một chiếc bánh đa kê ngon đều nhờ vào sự khéo léo của những đôi bàn tay đầy kinh nghiệm. Món ăn này dần đi vào quên lãng và trở thành một nét kí ức xưa cũ đã từng tồn tại của phố xá Hà Nội.",
+  "price": 20000,
+  "discount": 5,
+  "stock": 187,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.576287",
+  "updatedAt": {
+    "$date": "2025-05-05T08:03:17.798Z"
+  },
+  "realPrice": 19000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432195/qbvzgkmd14evujdtnwvj.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1de"
+  },
+  "snackName": "Bánh tráng nướng",
+  "description": "Bánh tráng nướng còn được gọi là \"pizza Việt\", bởi hình thức bên ngoài rất giống chiếc bánh piza, đều có phần đế và phần nhân bánh. Tuy nhiên, chiếc bánh tráng nướng lại rất đặc trưng với nguyên liệu thuần Việt, bánh mỏng, nhân bánh tương đối đơn giản dù khá đa dạng thành phần và hương vị.",
+  "price": 15000,
+  "discount": 0,
+  "stock": 124,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.573069",
+  "updatedAt": {
+    "$date": "2025-05-06T04:58:29.806Z"
+  },
+  "realPrice": 15000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439972/wkqxffaeuhrswefsoffj.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f6"
+  },
+  "snackName": "Mứt dừa",
+  "description": "Mứt dừa là một loại mứt được làm từ cơm dừa (cùi dừa), bao gồm cơm dừa được cắt mỏng thành sợi và đường cát trắng, khi muốn trang trí cho đẹp người làm có thể trộn thêm màu thực phẩm vào. Mứt dừa cũng được xem là một sản phẩm từ dừa. Mứt dừa được sản xuất nhiều ở Bến Tre vào dịp Tết Nguyên Đán.",
+  "price": 35000,
+  "discount": 0,
+  "stock": 36,
+  "categoryId": "mut",
+  "createdAt": "2025-04-11T07:49:54.575994",
+  "updatedAt": {
+    "$date": "2025-05-05T08:20:28.798Z"
+  },
+  "realPrice": 35000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746433218/oxt5ypgupkfhptaqqxj8.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ff"
+  },
+  "snackName": "Cơm cháy chà bông",
+  "description": "Cơm cháy chà bông được làm từ những hạt gạo tẻ ngon thắm đượm tình quê hương, xứ sở. Thêm vào đó là lớp chà bông sạch với sự lưu luyến trong hương vị làm hài lòng bất cứ thực khách nào đó chính là món nước sốt gia truyền trứ danh hơn một thập kỷ qua vẫn vẹn nguyên hương vị như thuở ban sơ.",
+  "price": 100000,
+  "discount": 5,
+  "stock": 74,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576393",
+  "updatedAt": {
+    "$date": "2025-05-09T03:26:35.402Z"
+  },
+  "realPrice": 95000,
+  "__v": 3,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746431980/g9a3hbv0f4vx2fjltksj.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e0"
+  },
+  "snackName": "Bánh đậu xanh",
+  "description": "Bánh đậu xanh là một loại bánh ngọt làm từ bột đậu xanh quết nhuyễn với đường và dầu thực vật hay mỡ động vật, thường là mỡ lợn. Bánh được cắt thành từng khối vuông nhỏ, gói giấy bạc thành hộp nhỏ, lớn hay gói giấy thấm mỡ thành từng thỏi vàng.",
+  "price": 15000,
+  "discount": 0,
+  "stock": 53,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.573853",
+  "updatedAt": {
+    "$date": "2025-05-05T10:11:32.185Z"
+  },
+  "realPrice": 15000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439888/exiq9gwqam4hrlmn6isi.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f0"
+  },
+  "snackName": "Bánh tráng cuốn",
+  "description": "Đồ ăn vặt đường phố Việt Nam được các bạn trẻ yêu thích. Bánh tráng cuốn ăn kèm bơ và cuộn với trứng cút ăn siêu cuốn, siêu nghiện.",
+  "price": 35000,
+  "discount": 10,
+  "stock": 32,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575835",
+  "updatedAt": {
+    "$date": "2025-05-09T02:00:24.847Z"
+  },
+  "realPrice": 31500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439047/lnmygpc1hi2b7swaxybg.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d201"
+  },
+  "snackName": "Chân gà sả tắc",
+  "description": "Chân gà sả tắc là bản hòa tấu của những hương vị đối lập mà lại quyện hòa đến lạ kỳ. Từng chiếc chân gà trắng ngà, bóng bẩy, giòn rụm như ngậm đầy tinh hoa từ đất trời, thấm đẫm thứ nước ngâm chua ngọt dịu dàng mà vẫn đậm đà đến từng thớ thịt.\nHương sả thơm nồng, mảnh mai như làn gió núi rừng, len lỏi qua từng ngóc ngách, quyện cùng mùi tắc thoảng chua, dịu mát, mang theo chút nắng vàng của buổi chiều nhiệt đới. Ở đâu đó, vị cay của ớt như điểm xuyết một nốt nhạc bùng cháy giữa bản tình ca thanh mát, đánh thức vị giác, làm người ta xuýt xoa mà vẫn không ngừng gắp.\nMỗi miếng chân gà là một trải nghiệm – giòn sần sật, thấm đẫm hương vị, vừa lạ vừa quen, khiến lòng người như có chút xao xuyến, như đang nhấm nháp một mẩu ký ức của những chiều tụ họp bạn bè, tiếng cười giòn tan và cái cảm giác ngon đến mức chỉ muốn giữ mãi trên đầu lưỡi.",
+  "price": 80000,
+  "discount": 0,
+  "stock": 60,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576451",
+  "updatedAt": {
+    "$date": "2025-05-09T02:02:19.312Z"
+  },
+  "realPrice": 80000,
+  "__v": 3,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746267718/ccnpqznxsicnbfhcufyv.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1dd"
+  },
+  "snackName": "Khô gà lá chanh",
+  "description": "KHÔ GÀ LÁ CHANH hay còn gọi là gà khô xé cay hay thịt gà sấy khô, là một món ăn vặt tuyệt ngon được làm từ 100% thịt gà kết hợp với lá chanh, cùng một số gia vị đặc biệt khác đã tạo nên một món ăn vặt thơm ngon hoàn hảo.",
+  "price": 30000,
+  "discount": 10,
+  "stock": 104,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.572778",
+  "updatedAt": {
+    "$date": "2025-05-05T10:13:22.155Z"
+  },
+  "realPrice": 27000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439993/qyowq7rrazz1rrkqv3fu.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ed"
+  },
+  "snackName": "Mè xửng",
+  "description": "Kẹo mè xửng hay mè xửng là một đặc sản có nguồn gốc từ thành phố Huế, Việt Nam. Kẹo được làm từ bột năng, mạch nha pha trộn lẫn với đậu phộng, có mè bao phủ xung quanh kẹo, được cắt từng miếng vuông nhỏ (bao giấy bóng nhỏ) gói trong hộp",
+  "price": 35000,
+  "discount": 10,
+  "stock": 41,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.575538",
+  "updatedAt": {
+    "$date": "2025-05-05T10:03:49.273Z"
+  },
+  "realPrice": 31500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439426/ttbyyosnumdyojux79gz.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fe0236e6f732d2eb900110"
+  },
+  "snackName": "Nem chua rán",
+  "description": "Nem chua rán là phiên bản chiên của món nem chua truyền thống. Thay vì được ăn sống lên men, nem chua rán được lăn qua bột chiên xù và chiên giòn vàng ruộm bên ngoài, bên trong vẫn giữ được vị chua nhẹ, dai giòn của thịt lên men.",
+  "price": 50000,
+  "discount": 5,
+  "stock": 100,
+  "categoryId": "do_kho",
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746374802/kdvkvn4zlahavgpenca4.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-04-15T06:52:38.281Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T16:06:49.098Z"
+  },
+  "realPrice": 47500,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e1"
+  },
+  "snackName": "Kẹo dừa Bến Tre",
+  "description": "Kẹo Dừa Bến Tre là một đặc sản nổi tiếng của vùng Đồng Bằng Sông Cửu Long, đặc biệt là Bến Tre - \"Xứ sở dừa\". Được sản xuất từ nguyên liệu chính là nước cốt dừa tươi, kẹo dừa không chỉ mang đến hương vị ngon ngọt, thơm lừng của dừa mà còn là biểu tượng của bền vững, mộng mơ và sức sống tươi mới.",
+  "price": 35000,
+  "discount": 5,
+  "stock": 12,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.574152",
+  "updatedAt": {
+    "$date": "2025-05-05T10:11:01.789Z"
+  },
+  "realPrice": 33250,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439847/rcjqwvavicopvl87sq0o.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e7"
+  },
+  "snackName": "Hạt hướng dương",
+  "description": "Hạt hướng dương là hạt từ cây hướng dương (Helianthus annuus). Những bông hoa hướng dương nở ra, trong nhụy mọc lên quả có hình dáng giống hạt nên được gọi là \"hạt\". Có ba loại hạt thường thấy là: giàu linoleic (phổ biến nhất), giàu oleic và hạt tạo dầu.",
+  "price": 25000,
+  "discount": 10,
+  "stock": 170,
+  "categoryId": "hat",
+  "createdAt": "2025-04-11T07:49:54.575008",
+  "updatedAt": {
+    "$date": "2025-05-05T10:07:21.766Z"
+  },
+  "realPrice": 22500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439633/vceweb3ng6c4ni397mqz.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ee"
+  },
+  "snackName": "Bánh in",
+  "description": "Bánh in là một loại bánh có xuất xứ từ Huế, được làm từ bột năng, bột gạo nếp, đậu xanh, đường, các nguyên liệu khác và được ép, đúc thành khuôn mặt đáy của bánh có khắc các hình chữ Thọ, Phúc, Lộc và gói trong giấy ngũ sắc. Đây là loại bánh để dùng trong ngày Tết để đãi khách, sửa soạn, bài trì thờ cúng (giống như công dụng của bánh Thánh trong Công giáo). Do giá trị rẻ nên được rất nhiều người ưa chuộng",
+  "price": 25000,
+  "discount": 0,
+  "stock": 135,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.575721",
+  "updatedAt": {
+    "$date": "2025-05-05T10:01:10.849Z"
+  },
+  "realPrice": 25000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439248/uzk3wtqhgpbuuwj440zz.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1fe"
+  },
+  "snackName": "Cá cơm khô tẩm",
+  "description": "Cá cơm khô được chế biến từ cá cơm tươi sống được đánh bắt ở vùng biển Nam Định, đem phơi khô trên những mảnh lưới sạch dưới ánh nắng tự nhiên của mặt trời. Với những điều kiện như vậy, cá cơm khô có vị đặc trưng vùng biển mặn, mùi thơm ngọt của cá tươi.",
+  "price": 25000,
+  "discount": 0,
+  "stock": 32,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576373",
+  "updatedAt": {
+    "$date": "2025-05-05T08:01:24.435Z"
+  },
+  "realPrice": 25000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432045/ajiaeqpkp21vwu8ebmvg.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ef"
+  },
+  "snackName": "Rong biển sấy",
+  "description": "Rong biển sấy là một món ăn phổ biến, được chế biến từ rong biển tươi sau khi được sấy khô, giúp bảo quản lâu dài mà vẫn giữ nguyên các chất dinh dưỡng có trong rong biển",
+  "price": 15000,
+  "discount": 5,
+  "stock": 137,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575793",
+  "updatedAt": {
+    "$date": "2025-05-05T10:00:17.967Z"
+  },
+  "realPrice": 14250,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439199/wiw1qtapwj1t8flmd6ha.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1fa"
+  },
+  "snackName": "Bánh gạo lứt",
+  "description": "Bánh tráng gạo lứt là loại bánh được làm từ bột gạo lứt, tinh bột sắn được tráng mỏng và phơi khô. Bánh có màu nâu nhạt (gần như màu be nâu), độ dày vừa phải, dai và dễ cuốn. Bánh được làm từ gạo lứt - loại tinh bột chuyển hóa chậm, tạo cảm giác no lâu giúp hỗ trợ bạn kiểm soát cân nặng một cách hiệu quả.",
+  "price": 20000,
+  "discount": 0,
+  "stock": 42,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.576194",
+  "updatedAt": {
+    "$date": "2025-05-05T08:09:22.998Z"
+  },
+  "realPrice": 20000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432560/qgi37llujdbvslwc4ihj.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e3"
+  },
+  "snackName": "Kẹo chuối",
+  "description": "Kẹo chuối là một món ăn vặt dân dã, đặc trưng của Việt Nam, được nhiều người yêu thích nhờ vào hương vị thơm ngon và nét mộc mạc trong từng viên kẹo. Kẹo chuối được chế biến từ nguyên liệu chính là quả chuối chín mọng, được sên kỹ với đường, mạch nha kết hợp với đậu gừng và chút gừng nồng nhẹ.",
+  "price": 30000,
+  "discount": 0,
+  "stock": 94,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.574617",
+  "updatedAt": {
+    "$date": "2025-05-05T10:09:45.322Z"
+  },
+  "realPrice": 30000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439773/azrikd9hno8lf5ra3bgu.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e4"
+  },
+  "snackName": "Mít sấy",
+  "description": "Mít tươi sau khi thu hoạch sẽ được bóc vỏ, bỏ hạt và xé múi mít làm đôi. Mít sấy được chế biến bằng công nghệ sấy hiện đại, môi trường khép kín, không sử dụng hóa chất và chất bảo quản nên có màu sắc tự nhiên, hương vị đặc trưng của múi mít tươi, giòn tan.",
+  "price": 20000,
+  "discount": 0,
+  "stock": 66,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.574784",
+  "updatedAt": {
+    "$date": "2025-05-05T10:09:15.012Z"
+  },
+  "realPrice": 20000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439752/mha8no9wmplruccz8wft.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e5"
+  },
+  "snackName": "Chuối sấy",
+  "description": "Được lựa chọn kỹ lưỡng từ 100% Chuối tươi chín kết hợp với phương pháp sấy truyền thống, an toàn & vệ sinh tạo nên sản phẩm Chuối Sấy với vị ngọt hoàn toàn tự nhiên mà không thêm bất cứ phụ gia nào.",
+  "price": 30000,
+  "discount": 5,
+  "stock": 59,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.574936",
+  "updatedAt": {
+    "$date": "2025-05-05T10:08:35.317Z"
+  },
+  "realPrice": 28500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439692/n2gzcijfvvdcbjkh8z92.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d202"
+  },
+  "snackName": "Hạt bí rang",
+  "description": "Hạt bí rang thơm ngon đặc sản Việt Nam.",
+  "price": 40000,
+  "discount": 5,
+  "stock": 13,
+  "categoryId": "hat",
+  "createdAt": "2025-04-11T07:49:54.576484",
+  "updatedAt": {
+    "$date": "2025-05-02T08:53:04.974Z"
+  },
+  "realPrice": 38000,
+  "__v": 1,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746035965/wg5cytyjwt2ekwbullu1.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e2"
+  },
+  "snackName": "Kẹo me cay",
+  "description": "Kẹo me cay là món ăn vặt được yêu thích bởi hương vị chua cay kích thích vị giác. Kẹo được làm từ những nguyên liệu tự nhiên, an toàn cho sức khỏe. Vị chua thanh của me kết hợp với vị cay nồng của ớt tạo nên sự kích thích vị giác tuyệt vời.",
+  "price": 40000,
+  "discount": 5,
+  "stock": 110,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.574495",
+  "updatedAt": {
+    "$date": "2025-05-05T10:10:25.915Z"
+  },
+  "realPrice": 38000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439823/ynlxr2vn2esmgowxq6oz.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f2"
+  },
+  "snackName": "Khô mực xé",
+  "description": "Khô Mực Xé được làm từ khô mực xé kết hợp với các gia vị tạo nên món ăn dai dai, cay cay vô cùng hấp dẫn. Mực xé là một món ăn nhẹ siêu ngon miệng và đậm đà.",
+  "price": 25000,
+  "discount": 0,
+  "stock": 104,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575899",
+  "updatedAt": {
+    "$date": "2025-05-05T09:56:13.338Z"
+  },
+  "realPrice": 25000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746438969/pxricf0ypeoavfpempjj.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f5"
+  },
+  "snackName": "Kẹo sữa",
+  "description": "Kẹo Sữa Bò là món kẹo quen thuộc từ bao thế hệ, mang đến hương vị sữa bò thơm ngon, đánh thức mọi giác quan và đánh thức những ký ức tuổi thơ ngọt ngào. Kẹo Sữa Bò được làm từ nguyên liệu sữa bò tươi nguyên chất, kết hợp cùng đường và mạch nha, tạo nên hương vị thơm ngon, béo ngậy, ngọt thanh đặc trưng.",
+  "price": 25000,
+  "discount": 0,
+  "stock": 130,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.575970",
+  "updatedAt": {
+    "$date": "2025-05-05T08:21:36.919Z"
+  },
+  "realPrice": 25000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746433250/kxpdf6nualjvhy4crexo.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ec"
+  },
+  "snackName": "Bánh khảo",
+  "description": "Bánh khảo là một món bánh ngọt có nguồn gốc từ Trung Quốc, sáng tác bởi dân tộc Choang và phổ biển ra các dân tộc Tày, Nùng ở Việt Nam (từ \"khảo\" trong tiếng Tày là gạo). Bánh được làm từ bột nếp rang với đường, ngoài ra còn có hạt vừng hoặc một số loại hạt thơm khác để tăng mùi vị của bánh.",
+  "price": 40000,
+  "discount": 10,
+  "stock": 53,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.575307",
+  "updatedAt": {
+    "$date": "2025-05-05T10:05:07.784Z"
+  },
+  "realPrice": 36000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439499/qzivllhcyemyde6c7qp4.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1ea"
+  },
+  "snackName": "Chả lụa chay",
+  "description": "Chả lụa chay có nhiều cách làm khác nhau, nguyên liệu sử dụng sẽ tùy theo khẩu vị, sở thích mà chọn cho phù hợp. Thường người làm chả lụa chay sẽ dùng nguyên liệu chính là bột mì căn - thành phần đặc biệt được tạo ra từ quá trình lọc bỏ tinh bột, giữ lại chất đạm trong bột mì.",
+  "price": 10000,
+  "discount": 0,
+  "stock": 30,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575130",
+  "updatedAt": {
+    "$date": "2025-05-05T10:06:02.156Z"
+  },
+  "realPrice": 10000,
+  "__v": 3,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439550/gkvaf9q9xyggy6fjpy3r.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f4"
+  },
+  "snackName": "Đậu phộng tỏi ớt",
+  "description": "Đậu phộng tỏi ớt là một sản phẩm ăn vặt đang được ưa chuộng hiện nay bởi hương vị đậm đà và đầy thú vị. Được sản xuất từ những hạt đậu phộng tươi ngon, đã được tẩm ướp với gia vị tỏi ớt cay nồng, sau đó được rang lên thành hạt đậu phộng giòn tan, thơm ngon.",
+  "price": 15000,
+  "discount": 10,
+  "stock": 141,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575952",
+  "updatedAt": {
+    "$date": "2025-05-05T08:22:34.268Z"
+  },
+  "realPrice": 13500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746433348/bq3u3e72uy9atbmkqsot.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1fd"
+  },
+  "snackName": "Mực rim me",
+  "description": "Mực rim me là món ăn vặt mới lạ cho giới văn phòng, cho bà bầu thích món chua chua, ngọt ngọt. Khô mực rim me có vị hơi ngọt, hơi cay (để khỏi tanh mùi hải sản), chua chua của me và vị ngọt tự nhiên của mực khô hòa quyện vào nhau tạo nên hương vị độc đáo khó quên.",
+  "price": 25000,
+  "discount": 5,
+  "stock": 172,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576319",
+  "updatedAt": {
+    "$date": "2025-05-05T08:02:09.714Z"
+  },
+  "realPrice": 23750,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432127/ucr5e0dyvbndpqpshseg.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1db"
+  },
+  "snackName": "Bánh tráng trộn",
+  "description": "Bánh tráng trộn là món ăn vặt gắn liền với tuổi thơ của rất nhiều người. Vị chua của xoài xanh quyện cùng bò khô, đậu phộng, sợi bánh tráng dai dai kèm rau răm, nước sốt khiến bao con tim “thổn thức”.",
+  "price": 10000,
+  "discount": 5,
+  "stock": 124,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.571764",
+  "updatedAt": {
+    "$date": "2025-05-05T10:14:26.887Z"
+  },
+  "realPrice": 9500,
+  "__v": 7,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746440064/hfxagsuwbk7bv5zyy4mr.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1dc"
+  },
+  "snackName": "Khô bò",
+  "description": " Thịt bò khô là món ăn yêu thích của nhiều người. Miếng thịt thơm ngon, dai dai cùng sự hòa quyện của vị cay của ớt, vị ngọt của thịt và vị mặn mà của muối biển luôn làm những người đã từng thưởng thức chỉ muốn ăn nữa, ăn tiếp mà không biết chán. Nhất là mỗi dịp tết đến khi bánh kẹo không còn được ưa chuộng thì thịt bò khô trở thành món ăn được yêu thích hay những khi rãnh rỗi muốn cùng anh em,bạn bè..nhâm nhi 1 chút bia, rượu hoặc những chị em phụ nữ chúng ta thì lại thích món thịt bò khô làm món mồi gải trí thâu đêm cùng phim ảnh cũng hay ho đến chán. Kết hợp cùng một chút rượu và ô mai, thịt bò khô trở thành những món ngon hấp dẫn không thể thiếu để gia chủ mời khách đến chơi nhà, chúc tết.",
+  "price": 30000,
+  "discount": 10,
+  "stock": 107,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.572284",
+  "updatedAt": {
+    "$date": "2025-05-06T06:37:22.155Z"
+  },
+  "realPrice": 27000,
+  "__v": 4,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746440037/nwy0qnasjjbvnfcgby1u.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1eb"
+  },
+  "snackName": "Bánh cốm",
+  "description": "Bánh cốm là loại bánh có vỏ làm từ cốm, có nhân làm từ đậu xanh, dừa nạo và mứt bí hoặc mứt sen trần, thường dùng cho lễ ăn hỏi",
+  "price": 25000,
+  "discount": 0,
+  "stock": 31,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.575266",
+  "updatedAt": {
+    "$date": "2025-05-05T10:05:34.630Z"
+  },
+  "realPrice": 25000,
+  "__v": 3,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439532/cxzj0n1vxbar7nuihwpx.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f1"
+  },
+  "snackName": "Khô cá lóc",
+  "description": "Khô cá lóc là món ăn dân dã, rất được bà con miền Tây ưa chuộng, ngày nay đã được phổ biến hơn đến các vùng miền Trung và miền Bắc. Khô cá lóc được phơi thủ công, đủ nắng, và được tẩm gia vị vừa ăn, có màu vàng đều tự nhiên. Thịt cá có độ mềm, dai vừa đủ và có mùi thơm nhẹ từ cá cùng gia vị.",
+  "price": 35000,
+  "discount": 10,
+  "stock": 50,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.575881",
+  "updatedAt": {
+    "$date": "2025-05-05T09:57:05.538Z"
+  },
+  "realPrice": 31500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439023/zibs9ju8gpjcpgxqirij.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f3"
+  },
+  "snackName": "Kẹo đậu phộng",
+  "description": "Kẹo Đậu Phộng hay còn được gọi là Thèo Lèo trong dân gian. Là loại kẹo hầu hết các gia đình Việt yêu thích từ xưa đến nay. Với thành phần chính là làm từ mạch nha và đường trắng hòa cùng với hạt đậu phộng béo béo đã tạo nên hương vị kẹo đậu phộng thơm ngon, giòn tan.",
+  "price": 10000,
+  "discount": 0,
+  "stock": 101,
+  "categoryId": "keo",
+  "createdAt": "2025-04-11T07:49:54.575935",
+  "updatedAt": {
+    "$date": "2025-05-09T02:00:17.023Z"
+  },
+  "realPrice": 10000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746437439/bnmjkxf5fnklxxszxij4.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f8"
+  },
+  "snackName": "Mứt hạt sen",
+  "description": "Mứt hạt sen được xem là món ăn truyền thống có hương vị ngon lạ miệng, thơm bùi, dễ ăn và không bị ngán.",
+  "price": 10000,
+  "discount": 5,
+  "stock": 173,
+  "categoryId": "mut",
+  "createdAt": "2025-04-11T07:49:54.576028",
+  "updatedAt": {
+    "$date": "2025-05-06T06:37:22.623Z"
+  },
+  "realPrice": 9500,
+  "__v": 3,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432701/j7bx2sgwy4tpd75oqyap.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67fe0f8a526028a987c79d13"
+  },
+  "snackName": "Bánh đa",
+  "description": "Bánh đa là một loại bánh mỏng, dẹt, làm từ bột gạo được tráng mỏng và phơi khô. Đây là món ăn dân dã, có thể dùng trực tiếp (nướng lên hoặc chiên giòn) hoặc chế biến trong các món như bánh đa cua, bánh đa trộn, hay ăn kèm các món nhúng lẩu.",
+  "price": 20000,
+  "discount": 0,
+  "stock": 50,
+  "categoryId": "banh",
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746374834/vp2ai12qyzabxogkrwch.jpg"
+  ],
+  "createdAt": {
+    "$date": "2025-04-15T07:49:30.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T16:07:16.300Z"
+  },
+  "realPrice": 20000,
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d200"
+  },
+  "snackName": "Bánh tráng muối tôm",
+  "description": "Thơm ngon, cay cay, mặn mặn – bánh tráng muối tôm là sự kết hợp hoàn hảo giữa bánh tráng dẻo dai, muối tôm Tây Ninh đậm đà, cùng với hành phi, sa tế, tắc tươi và một chút bò khô hoặc trứng cút (tuỳ loại). Mỗi miếng bánh tráng là một trải nghiệm vị giác khó quên, kích thích vị giác từ miếng đầu tiên.\n\n👉 Thích hợp cho các buổi tụ họp, xem phim, hay đơn giản là khi bạn cần một món ăn vặt ngon - nhanh - tiện lợi.\n\n🛍️ Gói hút chân không giữ trọn hương vị, dễ dàng bảo quản – chỉ cần mở ra là có thể ăn ngay!",
+  "price": 35000,
+  "discount": 10,
+  "stock": 192,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576424",
+  "updatedAt": {
+    "$date": "2025-05-04T13:09:10.762Z"
+  },
+  "realPrice": 31500,
+  "__v": 1,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746364104/cxvfecvd8q6bnmo7fyay.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1df"
+  },
+  "snackName": "Bánh chuối nướng",
+  "description": "Bánh chuối nướng là món ăn dân dã từ các nguyên liệu dễ tìm và gần gũi với đời sống: nước cốt dừa, chuối, bánh mì ổ, bột gạo, muối, đường, bơ, trứng...được hoà quyện vào nhau tạo nên một bề mặt là màu tim tím của chuối nằm giữa nền trắng tinh khôi của bột và nước cốt dừa tạo nên một khối đồng nhất từ hình thức lẫn hương vị khó phai.",
+  "price": 35000,
+  "discount": 0,
+  "stock": 153,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.573426",
+  "updatedAt": {
+    "$date": "2025-05-05T10:12:26.673Z"
+  },
+  "realPrice": 35000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439932/lch1ltlifouswr6baana.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e6"
+  },
+  "snackName": "Hạt điều rang muối",
+  "description": "Hạt điều rang muối là một loại thực phẩm được chế biến từ hạt điều tươi, sau đó được rang lên cho đến khi có màu vàng óng và giòn rụm, rồi được tẩm muối để tạo nên hương vị đặc trưng.",
+  "price": 40000,
+  "discount": 0,
+  "stock": 14,
+  "categoryId": "hat",
+  "createdAt": "2025-04-11T07:49:54.574986",
+  "updatedAt": {
+    "$date": "2025-05-05T10:07:54.755Z"
+  },
+  "realPrice": 40000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439671/tizu9fcn6baqhrxfsjop.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f7"
+  },
+  "snackName": "Mứt gừng",
+  "description": "Mứt gừng là một loại mứt được làm từ gừng bánh tẻ bao gồm gừng và bao ngoài một ít đường, vị hơi cay và ngọt. Mứt gừng có màu vàng chanh, vị ít cay. Mứt gừng là một loại mứt không thể thiếu trong dịp Tết Nguyên đán, khi tiết trời vẫn còn lạnh giá.",
+  "price": 30000,
+  "discount": 5,
+  "stock": 145,
+  "categoryId": "mut",
+  "createdAt": "2025-04-11T07:49:54.576011",
+  "updatedAt": {
+    "$date": "2025-05-05T08:18:14.457Z"
+  },
+  "realPrice": 28500,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746433092/tpprlgvas0igkrtaiqcl.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1f9"
+  },
+  "snackName": "Bánh tai heo",
+  "description": "Bánh tai heo là một loại bánh mặn của Việt Nam. Bánh có dạng lát mỏng, tròn, hình thù giống cái tai của con heo và có những đường sọc xoáy tròn đan xen giữa màu trắng sữa và màu nâu nhạt và có rắc những hạt mè.",
+  "price": 30000,
+  "discount": 10,
+  "stock": 66,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.576045",
+  "updatedAt": {
+    "$date": "2025-05-05T08:10:48.928Z"
+  },
+  "realPrice": 27000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432646/kqlgruky8mmeiwyy33tv.png"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1fb"
+  },
+  "snackName": "Chả cá cốm",
+  "description": "Một món ăn đặc sắc, kết hợp truyền thống của Việt Nam - Chả cá cốm. Cá được làm sạch và chế biến kỹ, xay nhuyễn rồi nặn thành từng viên có kích thước tương đương nhau, sau đó phủ một lớp cốm xanh thơm ngát bên ngoài. Chỉ cần chiên trong dầu sôi từ 4-5 phút là bạn và gia đình đã có một món ăn tuyệt vời.",
+  "price": 30000,
+  "discount": 10,
+  "stock": 159,
+  "categoryId": "do_kho",
+  "createdAt": "2025-04-11T07:49:54.576261",
+  "updatedAt": {
+    "$date": "2025-05-05T08:03:57.308Z"
+  },
+  "realPrice": 27000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746432235/y0wswxe46rtihom1tciz.webp"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e8"
+  },
+  "snackName": "Bánh pía",
+  "description": "Bánh pía là món bánh ngọt ngàn lớp có nhân và là bánh trung thu truyền thống xuất phát từ Triều Châu, Trung Quốc và được du nhập vào các khu phố người Hoa trên thế giới. Đặc biệt ở Đông Nam Á, nơi có Hoa Kiều cư ngụ là Malaysia, Indonesia, Philippines và Singapore.",
+  "price": 20000,
+  "discount": 0,
+  "stock": 75,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.575042",
+  "updatedAt": {
+    "$date": "2025-05-05T10:06:57.661Z"
+  },
+  "realPrice": 20000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439615/qg11gfm4hxyx0g3nxiv9.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f8d835fc0dd8f37e98d1e9"
+  },
+  "snackName": "Bánh phồng tôm",
+  "description": "Bánh phồng tôm hay đơn giản là bánh phồng là một loại bánh thường dùng để ăn nhẹ phổ biến tại các nước Đông Nam Á. Bánh đã chiên có độ giòn, xốp, béo ngậy, thơm mùi hải sản. Đông Nam Á, cũng phổ biến rộng rãi ở Đông Á, Hà Lan, Trung Đông, Úc và Vương quốc Anh.",
+  "price": 20000,
+  "discount": 5,
+  "stock": 194,
+  "categoryId": "banh",
+  "createdAt": "2025-04-11T07:49:54.575065",
+  "updatedAt": {
+    "$date": "2025-05-05T10:06:28.240Z"
+  },
+  "realPrice": 19000,
+  "__v": 2,
+  "images": [
+    "https://res.cloudinary.com/dbyquwzjy/image/upload/v1746439580/vzcsnvaqtbjxvhbvcd5s.jpg"
+  ]
+}]

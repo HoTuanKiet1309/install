@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "68124b5c17c0ed2668f96362"
+  },
+  "userId": {
+    "$oid": "68123fa422f1cda38247684b"
+  },
+  "fullName": "Hồ Tuấn Kiệt",
+  "phone": "0766761285",
+  "district": "Quận 12",
+  "ward": "Phường Thạnh Xuân",
+  "specificAddress": "58 Thạnh Xuân 22",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2025-04-30T16:10:04.120Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-30T17:27:43.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6813814cfab26b1c6b883f97"
+  },
+  "userId": {
+    "$oid": "67f6239b0099abf53cfd1809"
+  },
+  "fullName": "Hồ Tuấn Kiệt",
+  "phone": "0766761285",
+  "district": "Quận 12",
+  "ward": "Phường Thạnh Xuân",
+  "specificAddress": "58 Thạnh Xuân 22",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2025-05-01T14:12:28.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T17:47:06.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6813c439011ca54737455cfd"
+  },
+  "userId": {
+    "$oid": "6813c419011ca54737455cf7"
+  },
+  "fullName": "Hà My",
+  "phone": "0766761285",
+  "district": "Quận Gò Vấp",
+  "ward": "Phường 17",
+  "specificAddress": "379 Nguyễn Oanh",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2025-05-01T18:58:01.257Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-01T19:08:58.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6813d9fe9cd71e6f36ca0d49"
+  },
+  "userId": {
+    "$oid": "67f61b57ddb976c2437cca2a"
+  },
+  "fullName": "Kiệt",
+  "phone": "123456879",
+  "district": "Quận Phú Nhuận",
+  "ward": "Phường 3",
+  "specificAddress": "21321312",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2025-05-01T20:30:54.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-01T20:30:54.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815207921b0ffc3f9f86333"
+  },
+  "userId": {
+    "$oid": "6815205321b0ffc3f9f86314"
+  },
+  "fullName": "Hồ Tuấn Kiệt",
+  "phone": "0766761285",
+  "district": "Quận 12",
+  "ward": "Phường Thạnh Xuân",
+  "specificAddress": "58 Thạnh Xuân 22",
+  "isDefault": true,
+  "createdAt": {
+    "$date": "2025-05-02T19:43:53.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-02T19:43:53.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6816537c71af7b7322adfa8a"
+  },
+  "userId": {
+    "$oid": "67f6239b0099abf53cfd1809"
+  },
+  "fullName": "Kiệt",
+  "phone": "0766761285",
+  "district": "Quận Thủ Đức",
+  "ward": "Phường Linh Trung",
+  "specificAddress": "Đại học Công nghệ thông tin",
+  "isDefault": false,
+  "createdAt": {
+    "$date": "2025-05-03T17:33:48.981Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T17:47:06.217Z"
+  },
+  "__v": 0
+}] 
