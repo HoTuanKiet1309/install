@@ -81,11 +81,11 @@ mkdir -p mongodb-data/json
 curl -s -o mongodb-data/import.sh https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/import.sh
 chmod +x mongodb-data/import.sh
 
-curl -s -o mongodb-data/json/snack-shop.categories.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.categories.json
-curl -s -o mongodb-data/json/snack-shop.snacks.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.snacks.json
-curl -s -o mongodb-data/json/snack-shop.users.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.users.json
-curl -s -o mongodb-data/json/snack-shop.addresses.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.addresses.json
-curl -s -o mongodb-data/json/snack-shop.coupons.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.coupons.json
+curl -s -o mongodb-data/json/snack-shop.categories.json https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/snack-shop.categories.json
+curl -s -o mongodb-data/json/snack-shop.snacks.json https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/snack-shop.snacks.json
+curl -s -o mongodb-data/json/snack-shop.users.json https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/snack-shop.users.json
+curl -s -o mongodb-data/json/snack-shop.addresses.json https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/snack-shop.addresses.json
+curl -s -o mongodb-data/json/snack-shop.coupons.json https://raw.githubusercontent.com/HoTuanKiet1309/install/refs/heads/main/snack-shop.coupons.json
 
 # Khởi chạy ứng dụng
 docker-compose up -d
