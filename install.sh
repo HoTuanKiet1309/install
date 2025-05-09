@@ -76,18 +76,16 @@ EOL
 
 # Tạo thư mục và tải dữ liệu mẫu
 mkdir -p mongodb-data/json
-curl -s -o install-data.sh https://raw.githubusercontent.com/meekit1307/snackhub/main/install-data.sh || {
-  # Nếu không có file install-data.sh trên GitHub, tạo một script mặc định
-  cat > mongodb-data/import.sh << 'EOL'
-#!/bin/sh
-mongoimport --db snack-shop --collection categories --file /json/snack-shop.categories.json --jsonArray --drop
-mongoimport --db snack-shop --collection snacks --file /json/snack-shop.snacks.json --jsonArray --drop
-mongoimport --db snack-shop --collection users --file /json/snack-shop.users.json --jsonArray --drop
-mongoimport --db snack-shop --collection addresses --file /json/snack-shop.addresses.json --jsonArray --drop
-mongoimport --db snack-shop --collection coupons --file /json/snack-shop.coupons.json --jsonArray --drop
-EOL
-  chmod +x mongodb-data/import.sh
-}
+
+# Tải script import và các file JSON
+curl -s -o mongodb-data/import.sh https://raw.githubusercontent.com/HoTuanKiet1309/install/main/import.sh
+chmod +x mongodb-data/import.sh
+
+curl -s -o mongodb-data/json/snack-shop.categories.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.categories.json
+curl -s -o mongodb-data/json/snack-shop.snacks.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.snacks.json
+curl -s -o mongodb-data/json/snack-shop.users.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.users.json
+curl -s -o mongodb-data/json/snack-shop.addresses.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.addresses.json
+curl -s -o mongodb-data/json/snack-shop.coupons.json https://raw.githubusercontent.com/HoTuanKiet1309/install/main/snack-shop.coupons.json
 
 # Khởi chạy ứng dụng
 docker-compose up -d
